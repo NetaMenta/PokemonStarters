@@ -1,12 +1,12 @@
     @font-face {
         font-family: 'avara';
-        src: url('fonts\Bold\Avara-Bold.ttf') format('ttf');
+        src: url("fonts\Bold\Avara-Bold.woff2") format('woff2');
         font-weight: bold;
     }
     
     @font-face {
         font-family: 'fontjapanese';
-        src: url('fonts\Bold\Avara-Bold.ttf') format('ttf');
+        src: url("fonts\Bold\Avara-Bold.woff2") format('woff2');
         font-weight: normal;
     }
     
